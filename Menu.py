@@ -1797,7 +1797,7 @@ def tool():
 
 
     if whichserver == 1:
-      webbrowser.open('https://discord.gg/AeYFdwrxGG')
+      webbrowser.open('https://discord.gg/Sa4PzQhKWr')
     elif whichserver == 0:
       tool()
       return
