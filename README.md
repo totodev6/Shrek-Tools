@@ -43,6 +43,9 @@ Welcome to Shrek-Tools, a multifunctional tool with a multitude of options. All 
 
 # Warning❗
 make sure you disable your defender and run the setup.bat. Windows Defender may believe it to be a virus because the program may generate grabbers or DDoS attacks.
+> Many people have been selling/distributing of Shrek-Tools!
+
+> **DO NOT** Installing Shrek-Tools From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 ### Installation⚡
 
