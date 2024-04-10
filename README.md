@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/blackray207/Shrek-Tools/total">
   <img alt="Contributors" src="https://img.shields.io/github/contributors/blackray207/Shrek-Tools?color=dark-green">
   <img alt="Forks" src="https://img.shields.io/github/forks/blackray207/Shrek-Tools?style=social">
   <img alt="Stargazers" src="https://img.shields.io/github/stars/blackray207/Shrek-Tools?style=social">
