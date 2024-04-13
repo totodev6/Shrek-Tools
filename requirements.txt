@@ -1,10 +1,14 @@
+subprocess
+requests
+zipfile
+os
+sys
 setuptools
 colorama
 bs4
 selenium
 discord
 discum
-requests
 pyinstaller
 qrcode
 python-http-client
