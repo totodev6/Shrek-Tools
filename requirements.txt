@@ -2,7 +2,6 @@ subprocess
 requests
 zipfile
 os
-sys
 setuptools
 colorama
 bs4
