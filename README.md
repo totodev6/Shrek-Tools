@@ -33,7 +33,7 @@
 </p>
 
 
-# Preview📸 
+# Preview 📸 
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1207786290976653343/1218250917913169990/Capture_decran_2024-03-15_173221.png?ex=6622ab14&is=66103614&hm=1e307e7ead8bf04cc1541d9398ffa76731a0f572274dca112f8ac2f4cc173c85&">
 </p>
@@ -64,8 +64,11 @@ Finally just run Setup.bat and wait for it to complete.
 This project was created only for good purposes and personal use.
 By using Shrek-Tools, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-## License📃
+## License 📃
 
 Distributed under the MIT License. See [LICENSE](https://github.com/blackray207/Shrek-Tools/blob/main/LICENSE) for more information
 
-
+# Donation 🤑
+```
+ETH: 0x2f0E51693DB609FD69347a1668B1c66e874C58F0
+```
