@@ -8,9 +8,6 @@
   <h3 align="center">Shrek-Tools</h3>
 
   <p align="center">
-    Discord Multi-Tools
-    <br/>
-    <br/>
     <a href="https://discord.gg/V2EFYBWw5Q">Discord</a>
   </p>
 </p>
