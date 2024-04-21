@@ -26,7 +26,6 @@ emoji
 httpx
 tqdm
 websocket
-pyfadecolor
 Cipher
 Popen
 login
@@ -36,3 +35,4 @@ aes
 loads
 pystyle
 pyautogui
+pyfadecolor
