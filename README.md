@@ -67,5 +67,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/blackray207/
 
 # Donation 🤑
 ```
-ETH: 0x2f0E51693DB609FD69347a1668B1c66e874C58F0
+ETH: 0x6a982f026aaec5028b03187a7bacccc11c3e4438
 ```
